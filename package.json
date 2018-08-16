@@ -1,0 +1,31 @@
+{
+  "name": "think-big-therapy",
+  "version": "1.0.0",
+  "description": "Online therapy. Convenient, private, and professional counseling.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gafotech/Think-Big-Therapy.git"
+  },
+  "keywords": [
+    "online",
+    "therapy",
+    "therapy",
+    "counseling",
+    "mental",
+    "health",
+    "ecounseling"
+  ],
+  "author": "Think Big Therapy",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/gafotech/Think-Big-Therapy/issues"
+  },
+  "homepage": "https://github.com/gafotech/Think-Big-Therapy#readme",
+  "dependencies": {
+    "opn": "^5.3.0"
+  }
+}
